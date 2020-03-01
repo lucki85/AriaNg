@@ -18,3 +18,4 @@ if [ $CI == "true" ] && [ $CIRCLE_BRANCH == "master" ]; then
 
   echo "Done.";
 fi
+
